@@ -1,0 +1,4 @@
+/Users/MikeG/workspace4class/practiceshit/c#/AddressBook/obj/Debug/netcoreapp2.1/AddressBook.csprojAssemblyReference.cache
+/Users/MikeG/workspace4class/practiceshit/c#/AddressBook/obj/Debug/netcoreapp2.1/AddressBook.csproj.CoreCompileInputs.cache
+/Users/MikeG/workspace4class/practiceshit/c#/AddressBook/obj/Debug/netcoreapp2.1/AddressBook.AssemblyInfoInputs.cache
+/Users/MikeG/workspace4class/practiceshit/c#/AddressBook/obj/Debug/netcoreapp2.1/AddressBook.AssemblyInfo.cs
