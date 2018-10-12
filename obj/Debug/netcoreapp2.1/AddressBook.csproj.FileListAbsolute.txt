@@ -2,3 +2,10 @@
 /Users/MikeG/workspace4class/practiceshit/c#/AddressBook/obj/Debug/netcoreapp2.1/AddressBook.csproj.CoreCompileInputs.cache
 /Users/MikeG/workspace4class/practiceshit/c#/AddressBook/obj/Debug/netcoreapp2.1/AddressBook.AssemblyInfoInputs.cache
 /Users/MikeG/workspace4class/practiceshit/c#/AddressBook/obj/Debug/netcoreapp2.1/AddressBook.AssemblyInfo.cs
+/Users/MikeG/workspace4class/practiceshit/c#/AddressBook/bin/Debug/netcoreapp2.1/AddressBook.deps.json
+/Users/MikeG/workspace4class/practiceshit/c#/AddressBook/bin/Debug/netcoreapp2.1/AddressBook.runtimeconfig.json
+/Users/MikeG/workspace4class/practiceshit/c#/AddressBook/bin/Debug/netcoreapp2.1/AddressBook.runtimeconfig.dev.json
+/Users/MikeG/workspace4class/practiceshit/c#/AddressBook/bin/Debug/netcoreapp2.1/AddressBook.dll
+/Users/MikeG/workspace4class/practiceshit/c#/AddressBook/bin/Debug/netcoreapp2.1/AddressBook.pdb
+/Users/MikeG/workspace4class/practiceshit/c#/AddressBook/obj/Debug/netcoreapp2.1/AddressBook.dll
+/Users/MikeG/workspace4class/practiceshit/c#/AddressBook/obj/Debug/netcoreapp2.1/AddressBook.pdb
